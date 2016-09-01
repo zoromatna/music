@@ -1,0 +1,28 @@
+#IdMetronome{
+  top:125px !important;
+  background-Color: rgba(74,74,74, 0.7) !important;
+  width: 200px !important;
+  text-align: center;
+}
+
+.imgMetro{
+  width:40px !important;
+  height:40px !important;
+}
+
+.swithMetro{
+  width: 60px !important;
+  height: 20px !important;
+}
+
+.switch{
+  width: 65px !important;
+  height: 20px !important;
+  /*margin: 10px !important;*/
+  margin-right: 20px !important;
+  margin-bottom: 10px !important;
+}
+.circle{
+  width: 20px !important;
+  height: 20px !important;
+}

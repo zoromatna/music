@@ -1,0 +1,28 @@
+.bodyMenu{
+  height: 60px! important;
+  background-Color: rgb(74,74,74);
+  width:100%;
+}
+
+.iconMenuLeft{
+  heifht:30px;
+  width:30px;
+  background-Color: green;
+  margin-top: 15px;
+  margin-left:30px;
+}
+.container {
+  height: 60px! important;
+
+}
+
+.navbar-default{
+  background-image: none !important;
+  background-Color: rgb(74,74,74) !important;
+  border: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.glyphicon{
+  color:white;
+}

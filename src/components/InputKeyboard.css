@@ -1,0 +1,39 @@
+.digital, .sound{
+  color: white;
+  border: 1px solid white;
+  padding: 0px !important;
+  height: 30px;
+  text-align: center;
+  width:50%;
+  background: rgba(255, 0, 0, 0);
+}
+
+.btn-default:active{
+  background-Color:blue !important;
+}
+
+.popover-content{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.digital: active{
+  background: blue !important;
+}
+
+.digitalChoice, .soundChoice{
+  border: 1px solid white;
+  padding: 0px !important;
+  height: 30px;
+  text-align: center;
+  background:blue;
+}
+.content_choice_keyboard{
+  display: block;
+}
+.hideFooter{
+  display:none;
+}
+.showFooter{
+  display: block;
+}

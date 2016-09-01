@@ -1,0 +1,23 @@
+#HandsChoice{
+  left: 200px !important;
+  top:125px !important;
+  background-Color: rgba(74,74,74, 0.7) !important;
+}
+.popover-content{
+  /*background-Color: rgba(74,74,74, 0.7) !important;*/
+}
+#HandsChoice>.arrow{
+  left: 18% !important;
+}
+.popover.bottom>.arrow:after{
+  border-bottom-color: rgba(74,74,74, 0.7) !important;
+}
+img{
+  width: 60px;
+  hight: 60px;
+  padding: 5px;
+  padding-left:0px;
+}
+img{
+  cursor:pointer;
+}
